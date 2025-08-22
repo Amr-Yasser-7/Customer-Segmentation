@@ -71,5 +71,3 @@ The goal of this project is to **segment mall customers into distinct groups** b
 ## Key Takeaways
 This project demonstrates how unsupervised learning can uncover hidden patterns in customer behavior.
 It’s not just about algorithms—it’s about turning raw data into actionable insights.
-
-Do you want me to also extract the **exact dependencies** from your notebook and generate the `requirements.txt` for you automatically?
